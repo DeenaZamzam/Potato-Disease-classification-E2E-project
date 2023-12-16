@@ -3,7 +3,7 @@
 ## Requirements
 
 Install Python
-Install Tesnsorflow =2.5
+.\n Install Tesnsorflow =2.5
 Install matplotlib
 
 
