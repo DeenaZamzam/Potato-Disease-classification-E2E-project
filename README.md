@@ -7,7 +7,7 @@ Install Tesnsorflow =2.5\
 Install matplotlib
 
 
-#How To use:
+## How To use:
 
 Run training.ipynb file
 
